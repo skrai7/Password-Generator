@@ -10,7 +10,7 @@ public class Main {
 
     private static final String URL = "jdbc:mysql://localhost:3306/password_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "sumitiitian12";
+    private static final String PASSWORD = "*********";
 
     // Character Pools
     private static final String LOWERCASE = "abcdefghijklmnopqrstuvwxyz";
